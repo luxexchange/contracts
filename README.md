@@ -17,4 +17,4 @@ Both target Solidity `^0.8.20`.
 
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+BSD-3-Clause — see [LICENSE](./LICENSE).
